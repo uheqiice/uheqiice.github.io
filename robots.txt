@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uheqiice.github.io/CFs/sitemap_index.txt
+Sitemap: https://uheqiice.github.io/TFW/sitemap_index.txt
+Sitemap: https://uheqiice.github.io/ViS/sitemap_index.txt
+Sitemap: https://uheqiice.github.io/qTs/sitemap_index.txt
